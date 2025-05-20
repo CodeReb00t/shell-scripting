@@ -35,3 +35,4 @@ for category in "${!types[@]}"; do
 done
 
 echo "✅ Organization complete. Log saved to $LOG_FILE" | tee -a "$LOG_FILE"
+echo "Made By CodeReb00t"
